@@ -1,4 +1,4 @@
-Alejandro Alvarez y Alvaro Martinez 11°1
+sebastian juaristi 91
        
 1. En tus palabras, ¿Qué es internet?
 Internet es una red de computadoras interconectadas a nivel mundial en forma de telaraña. Consiste de servidores que proveen información a aproximadamente 100 millones de personas que están conectadas entre ellas a través de las redes de telefonía y cable.
@@ -6,8 +6,7 @@ Internet es una red de computadoras interconectadas a nivel mundial en forma de 
 2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 Los medios físicos y de propagación de ondas por los que se transmite la información en internet; ondas de radio.
 
-3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-En Internet se emplean direcciones numéricas para identificar máquinas: las direcciones IP. Se representan por cuatro números, de 0 a 255, separados por puntos. Un servidor puede identificarse, por ejemplo, con la dirección IP 66.230.200.100. Como es más sencillo recordar un nombre, las direcciones se "traducen" a nombres. Los trozos "traducidos" se denominan nombres de dominio. El servicio encargado de la traducción es el DNS e identifica las numeraciones de los usuarios conectados
+3. ¿Cómo se organiza internet : Internet no es una red centralizada ni está regida por un solo organismo. Su estructura es semejante a una tela de araña en la cual unas redes se conectan con otras. No obstante hay una serie de organizaciones responsables de la adjudicación de recursos y el desarrollo de los protocolos necesarios para que Internet evolucione. Por ejemplo: la Internet Engineering Task Force (IETF) 
 
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 No sigue un camino directo, sino que va en paquetes que buscan el camino más rápido, controlado por routers. La canción se manda en pequeños paquetes que el Protocolo de Control de Transmision se encarga de juntar para que la canción se escuche como una pieza y no muchas piezas mal pegadas.
@@ -16,12 +15,11 @@ No sigue un camino directo, sino que va en paquetes que buscan el camino más r�
 HTTP funciona como una solicitud o sumision de datos y el sevidor los obtiene o recibe para la computadora. HTML funciona en base de HTTP y describe las características de la pagina requerida por la direccion HTTP. 
 
 6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-La encriptación es la practica de cambiar el código o información (que es valiosa) para que en caso de que se intercepte, no se pueda entender, la forma en la que el receptor la puede decodificar es con la llave. Ya que la encriptacion que pueda resolver un humano es muy fácil y cualquier computadora puede hacer, las llaves de hoy en dia usan 256 llaves bit para que las computadoras de hackers no puedan decodificar la encriptación a tiempo.
-Ya que es imposible que 2 computadoras se pongan de acuerdo para establecer un llave, las computadoras usan una llave publica y una llave privada, de esta manera, una computadora puede mandar informacion con una llave publica y solo una computadora, que tiene la llave privada, puede decodificar la información. 
+La encriptación es un procedimiento de seguridad que consiste en la alteración, mediante algoritmos, de los datos que componen un archivo. El objetivo es hacer que dichos datos se vuelvan ilegibles en caso de que un tercero los intercepte. y las llaves 
 
 7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-Los viruses son programas que se instalan en las computadoras y afectan al usuario y a su equipo. Cuando varias computadoras están al servicio de un hacker el cual las usa para su provecho, el tiene a su disposicion a un ejercito digital, o Negacion de Servicio Distribuida. Esto ocurre gracias a que los servidores son bombardeados con demasiadas computadoras a la vez y por ello dejan de responder. Phishing es un metodo que usan los hackers para hacer que des informacion personal con un frente que parece ser legitimo, esta informacion luego la usan para buscar mas informacion personal.
+Los viruses son programas que se instalan en las computadoras y dañan y afectan al equipo y hacen que se trabe o tenga problemas . Cuando muchas  computadoras están al servicio de un hacker el cual las usa para su provecho, el tiene a su disposicion a un ejercito digital, o Negacion de Servicio Distribuida. Esto ocurre gracias a que los servidores son bombardeados con demasiadas computadoras a la vez y por ello dejan de responder. Phishing es un metodo que usan los hackers para hacer que des informacion personal con un frente que parece ser legitimo, esta informacion luego la usan para buscar mas informacion personal y muchos se aprovechan de eso .
 La mejor manera de mantenerse seguro de viruses y phishing segun el video es checar la seguridad y que tan legitimo es un sitio web.
 
 8. ¿Cómo funciona la búsqueda de google?
-Para ahorrar tiempo, los buscadores se adelantan y escanean las páginas web y su contenido para estar listos cuando alguien busque la informacion que esas paginas ofrecen; esto lo hace gracias a las arañas, las cuales buscan a traves de todas las paginas para obtener e identificar información, la cual la pone en indices de busqueda. Cuando se busca cierta informacion, el indice de busqueda toma las palabras y busca paginas que tengan la mayor coincidencia en su titulo.
+Para no hacer tanto  tiempo, los buscadores de google o casi cualqiuer otro buscador  se adelantan y escanean las páginas web y su informacion  para estar listos cuando alguien busque la informacion que esas paginas ofrecen; esto lo hace gracias a las arañas, las cuales buscan a traves de todas las paginas para obtener e identificar información, la cual la pone en indices de busqueda. Cuando se busca cierta informacion, el indice de busqueda toma las palabras y busca paginas que tengan la mayor coincidencia en su titulo.La llave pública es el candado y su pareja es la llave de metal (llave privada) que lo abre. Por supuesto, esta pareja debe ser fabricada una para la otra. La versión criptográfica es un par de secuencias de caracteres, que usadas por un programa adecuado pueden cifrar.
